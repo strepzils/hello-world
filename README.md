@@ -1,3 +1,4 @@
 # hello-world
 Time honoured tradition
-Committed to learning code and getting into the tech industry 
+Using Github to learn more about code
+Currently petless and living in Berlin
